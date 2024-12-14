@@ -25,7 +25,6 @@ function App() {
       setTitle(""); // Reset input after adding
     }
   };
-
   return (
     <div className="max-w-md mx-auto bg-white shadow-lg rounded-lg overflow-hidden mt-32 py-4 px-4">
       <div className="px-4 py-2">
